@@ -50,4 +50,6 @@ google_fonts:
 
 navigation_pages:
   - about.md
+  -网站结构.md
+  -页面设计.md
   - cv.md
